@@ -58,7 +58,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?logo=github" />
   <img src="https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black">
   <img src="https://img.shields.io/badge/-slack-%234A154B?logo=Slack"/>
-  <img src="https://img.shields.io/badge/Gather-caa6fe?style=flat-square&logo=Undertale&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swagger-black?logo=Swagger">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"/>
