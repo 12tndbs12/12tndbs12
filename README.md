@@ -8,8 +8,8 @@
 ## 언어
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-<img src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+  <img src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
 </p>
 
 ## 기술 스택
@@ -24,7 +24,7 @@
 
 ### 패키지 및 환경
 <p>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eslint-4B3263?style=flat-square&logo=Eslint&logoColor=white"/>
 </p>
@@ -33,29 +33,42 @@
 <p>
   <img src="https://img.shields.io/badge/-Node.js-black?logo=Node.js"/>
   <img src="https://img.shields.io/badge/-express-blue?logo=Express"/>
-  <img src="https://img.shields.io/badge/-Mongo%20DB-white?logo=MongoDB"/>
-  <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Sequelize-%2352B0E7?logo=Sequelize&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+### DB
+<p>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Mongo%20DB-white?logo=MongoDB"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 인프라
+<p>
+  	<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white/>
 
 </p>
 
 ## 협업 도구
 
 <p>
-  <img src="https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black">
-  <img src="https://img.shields.io/badge/GitHub-100000?logo=github" />
   <img src= "https://img.shields.io/badge/Git-FF4500?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?logo=github" />
+  <img src="https://img.shields.io/badge/Notion-white?logo=notion&logoColor=black">
   <img src="https://img.shields.io/badge/-slack-%234A154B?logo=Slack"/>
   <img src="https://img.shields.io/badge/Gather-caa6fe?style=flat-square&logo=Undertale&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swagger-black?logo=Swagger">
-  
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ## Contact me
 
-junh0328@naver.com <br/>
-dlwnsgml0328@gmail.com
+12tndbs12@naver.com <br/>
+gangsuyun6@gmail.com
 
 <!--
 **12tndbs12/12tndbs12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
