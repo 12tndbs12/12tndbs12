@@ -35,7 +35,9 @@
   <img src= "https://img.shields.io/badge/-express-blue?logo=Express"/>
   <img src= "https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white"/>
   <img src= "https://img.shields.io/badge/-Sequelize-%2352B0E7?logo=Sequelize&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/TypeORM-E83524?style=flat-square"/>
   <img src= "https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/>
   <img src= "https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
 
