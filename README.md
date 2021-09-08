@@ -70,6 +70,8 @@
 12tndbs12@naver.com <br/>
 gangsuyun6@gmail.com
 
+## blog
+https://velog.io/@rkdden12
 <!--
 **12tndbs12/12tndbs12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
